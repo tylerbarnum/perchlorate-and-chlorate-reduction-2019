@@ -7,6 +7,6 @@ Citation:
 
 Models for understanding the interaction between perchlorate-reducing bacteria and chlorate-reducing bacteria. Used to produce:
 
-Figure 4: Simulation of perchlorate reduction with and without chlorate-reducing bacteria
-Supplemental Figure 4: Variation of initial concentrations of cells or perchlorate
-Supplemental Figure 5: Variation of Km for perchlorate or chlorate
+- Figure 4: Simulation of perchlorate reduction with and without chlorate-reducing bacteria
+- Supplemental Figure 4: Variation of initial concentrations of cells or perchlorate
+- Supplemental Figure 5: Variation of Km for perchlorate or chlorate
