@@ -1,0 +1,13 @@
+,Perchlorate-reducing bacteria (PRB),Chlorate-reducing bacteria (CRB)
+Ks ClO4- (M),6e-06,10.0
+Ks ClO3- (M),7.4e-06,7.4e-06
+Ks C2H3O2- (M),0.001,0.001
+Ki ClO4- (M),10.0,10.0
+Ki ClO3- (M),10.0,10.0
+Ki C2H3O2- (M),10.0,10.0
+Maximum growth rate (h^-1),0.5,0.5
+Death rate (h^-1),0.0,0.0
+Yield coefficient ClO4- to ClO3-,0.04894369346923365,0.0
+Yield coefficient ClO3- to Cl-,0.14401738692292962,0.14401738692292962
+Stoichiometric ratio ClO4- to ClO3-,0.37235923367308416,0.0
+Stoichiometric ratio ClO3- to Cl-,1.110028467607318,1.110028467607318
