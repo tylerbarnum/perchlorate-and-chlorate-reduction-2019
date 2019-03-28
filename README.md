@@ -14,6 +14,9 @@ Output from the model produced the following figures in the paper:
 
 Citations:
 > Youngblut, Matthew D., Ouwei Wang, Tyler P. Barnum, and John D. Coates. 2016. “(Per)chlorate in Biology on Earth and Beyond.” Annual Review of Microbiology 70(1): 435–59.
+
 > Rittmann, Bruce E, and P.L. McCarty. 2001. McGraw-Hill Environmental Biotechnology: Principles and Applications. New York, NY.
+
 > Youngblut, Matthew D. et al. 2016. “Perchlorate Reductase Is Distinguished by Active Site Aromatic Gate Residues.” Journal of Biological Chemistry 291(17): 9190–9202.
+
 >Tang, J. Y., and W. J. Riley. 2013. “A Total Quasi-Steady-State Formulation of Substrate Uptake Kinetics in Complex Networks and an Example Application to Microbial Litter Decomposition.” Biogeosciences 10(12): 8329–51.
