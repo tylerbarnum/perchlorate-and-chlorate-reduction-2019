@@ -1,6 +1,6 @@
-# Figures from Barnum et. al 2019
+# Supplemental code for Barnum et. al 2019
 
->Tyler P. Barnum, Yiwei Cheng, Kaisle A. Hill, Lauren N. Lucas, Hans K. Carlson, and John D. Coates. Exploitation of a complete respiratory pathway by a partial respiratory pathway in chlorine oxyanion reduction. In prep.
+>Tyler P. Barnum, Yiwei Cheng, Kaisle A. Hill, Lauren N. Lucas, Hans K. Carlson, and John D. Coates. Exploitation of a complete respiratory pathway by a partial respiratory pathway in chlorine oxyanion reduction. *In preparation.*
 
 ### modeling-perchlorate-reduction
 
