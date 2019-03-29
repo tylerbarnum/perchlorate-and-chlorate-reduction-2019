@@ -1,16 +1,17 @@
 # Supplemental code for Barnum et. al 2019
 
+Cite:
+
 >Tyler P. Barnum, Yiwei Cheng, Kaisle A. Hill, Lauren N. Lucas, Hans K. Carlson, and John D. Coates. Exploitation of a complete respiratory pathway by a partial respiratory pathway in chlorine oxyanion reduction. *In preparation.*
 
-### modeling-perchlorate-reduction
+## modeling-perchlorate-reduction
 
 Models for understanding the interaction between perchlorate-reducing bacteria and chlorate-reducing bacteria. The model is derived directly from the redox potential of perchlorate/chlorate and chlorate/chloride half-reactions in Youngblut et. al 2016a per Rittman and McCarty 2001, enzyme properties determined in Youngblut et. al 2016b, and equations developed for the Equilibirum Kinetics Approximation (ECA) model in Tang et. al 2013.
 
+#### Example: Simulation of perchlorate- and chlorate-reducing bacteria in co-culture
 ![example plot](https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2019/blob/master/modeling-perchlorate-reduction/data/eca-prb-and-crb.png)
 
-
-Output from the model produced the following figures in the paper:
-
+Figures in paper:
 - Figure 4: Simulation of perchlorate reduction with and without chlorate-reducing bacteria
 - Supplemental Figure 4: Variation of initial concentrations of cells or perchlorate
 - Supplemental Figure 5: Variation of Km for perchlorate or chlorate
