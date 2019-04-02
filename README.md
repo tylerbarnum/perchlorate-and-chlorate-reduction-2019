@@ -8,7 +8,7 @@ Cite:
 
 Models for understanding the interaction between perchlorate-reducing bacteria and chlorate-reducing bacteria. The model is derived directly from the redox potential of perchlorate/chlorate and chlorate/chloride half-reactions in Youngblut et. al 2016a per Rittman and McCarty 2001, enzyme properties determined in Youngblut et. al 2016b, and equations developed for the Equilibirum Kinetics Approximation (ECA) model in Tang et. al 2013.
 
-![Notebook](https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2019/blob/master/modeling-perchlorate-reduction/modeling_perchlorate_reduction.ipynb)
+[Notebook](https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2019/blob/master/modeling-perchlorate-reduction/modeling_perchlorate_reduction.ipynb)
 
 #### Example: Simulation of perchlorate- and chlorate-reducing bacteria in co-culture
 ![example plot](https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2019/blob/master/modeling-perchlorate-reduction/data/eca-prb-and-crb.png)
