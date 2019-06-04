@@ -2,7 +2,7 @@
 
 Cite:
 
->Tyler P. Barnum, Yiwei Cheng, Kaisle A. Hill, Lauren N. Lucas, Hans K. Carlson, and John D. Coates. Exploitation of a complete respiratory pathway by a partial respiratory pathway in chlorine oxyanion reduction. *In preparation.*
+>Tyler P. Barnum, Yiwei Cheng, Kaisle A. Hill, Lauren N. Lucas, Hans K. Carlson, and John D. Coates. The respiratory pathways for chlorine oxyanions interact through the shared metabolite chlorate. *In preparation.*
 
 ## modeling-perchlorate-reduction
 
