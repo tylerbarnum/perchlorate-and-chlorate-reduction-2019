@@ -1,8 +1,8 @@
-# Supplemental code for Barnum et. al 2019
+# Supplemental code for Barnum et. al 2020
 
 Cite:
 
->Tyler P. Barnum, Yiwei Cheng, Kaisle A. Hill, Lauren N. Lucas, Hans K. Carlson, and John D. Coates. The respiratory pathways for chlorine oxyanions interact through the shared metabolite chlorate. *In preparation.*
+>Barnum, T.P., Cheng, Y., Hill, K.A. et al. Identification of a parasitic symbiosis between respiratory metabolisms in the biogeochemical chlorine cycle. ISME J 14, 1194–1206 (2020). https://doi.org/10.1038/s41396-020-0599-1
 
 ## modeling-perchlorate-reduction
 
